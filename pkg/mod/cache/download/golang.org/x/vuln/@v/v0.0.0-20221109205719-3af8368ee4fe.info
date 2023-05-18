@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"Version":"v0.0.0-20221109205719-3af8368ee4fe","Time":"2022-11-09T20:57:19Z"}
+=======
+{"Version":"v0.0.0-20221109205719-3af8368ee4fe","Time":"2022-11-09T20:57:19Z","Origin":{"VCS":"git","URL":"https://go.googlesource.com/vuln","Hash":"3af8368ee4fe30ab2f7add7520d0c487796a163c"}}
+>>>>>>> 284410fa8083bffc9495c372c5112e54d737a5f0

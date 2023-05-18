@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"Version":"v0.11.0","Time":"2022-12-13T20:46:34Z"}
+=======
+{"Version":"v0.11.0","Time":"2022-12-13T20:46:34Z","Origin":{"VCS":"git","URL":"https://go.googlesource.com/tools","Subdir":"gopls","Ref":"refs/tags/gopls/v0.11.0","Hash":"611cff71b9afeb81ae6eb16c5ce9376c051b1828"}}
+>>>>>>> 284410fa8083bffc9495c372c5112e54d737a5f0

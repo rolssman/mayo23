@@ -3,7 +3,14 @@ mvdan.cc/gofumpt v0.4.0 h1:JVf4NN1mIpHogBj7ABpgOyZc65/UUOkKQFkoURsz4MM=
 mvdan.cc/gofumpt v0.4.0/go.mod h1:PljLOHDeZqgS8opHRKLzp2It2VBuSdteAgqUfzMTxlQ=
 
 go.sum database tree
+<<<<<<< HEAD
 17523472
 RHowFFN8QomFbr12J497JsplpCwaW5zJU5+4cU646X4=
 
 — sum.golang.org Az3grkkq0n9vzUdwWN3m4K6uk+jEshrjGdOqoquSpZKXJohbMaWGcHL3O+X2xPKJhbbn9WHokIe8WEzgI422AhTrUgk=
+=======
+17502825
+scjqKwEK0gMEdYM8Hbar7UsoeUBCrEWzwQuGUf2bMOY=
+
+— sum.golang.org Az3grjk3sD7bzfgxr3hGd/tWLMwIKb1oqN4vIG5fojsok45Iszmik6wEsNHBA6+7H9kuphqgP5St/ppyWADCJ/DuCQ0=
+>>>>>>> 284410fa8083bffc9495c372c5112e54d737a5f0

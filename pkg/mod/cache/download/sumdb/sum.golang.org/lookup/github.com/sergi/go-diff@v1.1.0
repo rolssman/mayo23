@@ -3,7 +3,14 @@ github.com/sergi/go-diff v1.1.0 h1:we8PVUC3FE2uYfodKH/nBHMSetSfHDR6scGdBi+erh0=
 github.com/sergi/go-diff v1.1.0/go.mod h1:STckp+ISIX8hZLjrqAeVduY0gWCT9IjLuqbuNXdaHfM=
 
 go.sum database tree
+<<<<<<< HEAD
 17524468
 lIof3Pp3SUv19nFq9dmo9OLRLNpYqhg7eUCzgWT7R6s=
 
 — sum.golang.org Az3grgi8quIa5Hq8ilw4SPJbV90e4+hp+GSxnLv0HGH0N4qH2sOAGJsj0nepWhanotLUTsE9qrJ2oDh63iM3+ydqBgc=
+=======
+17502541
+GqNyA1NymfmELk807FzY+1tCxLE4HEsSlwq6ak3lgGk=
+
+— sum.golang.org Az3grivoN8A+ncfMeWxPSeJhRLyIjD61lO7/y4sTMExsRgOy3RKTS02okCO9be71PW4jL0eAJekYCyqMv4SHBabi2Ao=
+>>>>>>> 284410fa8083bffc9495c372c5112e54d737a5f0

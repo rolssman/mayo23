@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"Version":"v0.9.1","Time":"2023-05-09T14:57:09Z"}
+=======
+{"Version":"v0.9.1","Time":"2023-05-09T14:57:09Z","Origin":{"VCS":"git","URL":"https://go.googlesource.com/tools","Ref":"refs/tags/v0.9.1","Hash":"4609d79b05b5ef86867bd70209b7077e22d30cb2"}}
+>>>>>>> 284410fa8083bffc9495c372c5112e54d737a5f0
