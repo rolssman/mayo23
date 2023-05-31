@@ -8,12 +8,12 @@ type pc struct {
 	brand string
 }
 
-func (pc pc) ping() {
-	fmt.Println(pc.brand, "pong")
+func (miPc pc) ping() {
+	fmt.Println(miPc.brand, "pong")
 }
 
-func (pc *pc) duplicatedRam() {
-	pc.ram = pc.ram * 2
+func (elPc *pc) duplicatedRam() {
+	elPc.ram = elPc.ram * 2
 }
 
 func main() {
@@ -35,9 +35,8 @@ func main() {
 	pc.ping()
 
 	fmt.Println(pc.ram)
-
 	pc.duplicatedRam()
-	fmt.Println(pc.ram)
+	fmt.Println(pc)
 	pc.duplicatedRam()
 	fmt.Println(pc.ram)
 }
